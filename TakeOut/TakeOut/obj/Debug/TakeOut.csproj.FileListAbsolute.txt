@@ -1,0 +1,16 @@
+C:\Users\24274\source\repos\TakeOut\TakeOut\bin\Debug\TakeOut.exe.config
+C:\Users\24274\source\repos\TakeOut\TakeOut\bin\Debug\TakeOut.exe
+C:\Users\24274\source\repos\TakeOut\TakeOut\bin\Debug\TakeOut.pdb
+C:\Users\24274\source\repos\TakeOut\TakeOut\bin\Debug\Newtonsoft.Json.dll
+C:\Users\24274\source\repos\TakeOut\TakeOut\bin\Debug\Newtonsoft.Json.xml
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.csprojAssemblyReference.cache
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.Properties.Resources.resources
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.csproj.GenerateResource.cache
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.csproj.CoreCompileInputs.cache
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.csproj.CopyComplete
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.exe
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\TakeOut.pdb
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\DormManagementApp.UpdateTakeOutOrder.resources
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\DormManagementApp.TakeOutOrder_Student.resources
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\DormManagementApp.TakeOutOrder_Manager.resources
+C:\Users\24274\source\repos\TakeOut\TakeOut\obj\Debug\DormManagementApp.AddTakeOutOrder.resources
